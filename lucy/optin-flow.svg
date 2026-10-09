@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="560" viewBox="0 0 420 560" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="420" height="560" rx="28" fill="#f2f2f7" stroke="#999"/>
+  <text x="210" y="40" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">(213) 297-8800</text>
+  <text x="210" y="60" text-anchor="middle" font-size="12" fill="#666">Lucy, Alvin Liu's assistant line</text>
+  <line x1="20" y1="75" x2="400" y2="75" stroke="#ccc"/>
+  <rect x="300" y="95" width="100" height="36" rx="18" fill="#0a84ff"/>
+  <text x="350" y="118" text-anchor="middle" font-size="15" fill="#fff">START</text>
+  <text x="400" y="146" text-anchor="end" font-size="10" fill="#888">User texts the number first</text>
+  <rect x="20" y="160" width="330" height="96" rx="18" fill="#e5e5ea"/>
+  <text font-size="13.5" fill="#111"><tspan x="36" y="184">Lucy (Alvin Liu's assistant line): You're</tspan><tspan x="36" y="202">opted in. Msg frequency varies. Msg &amp; data</tspan><tspan x="36" y="220">rates may apply. Reply HELP for help, STOP</tspan><tspan x="36" y="238">to opt out.</tspan></text>
+  <text x="20" y="272" font-size="10" fill="#888">Automatic opt-in confirmation</text>
+  <rect x="150" y="290" width="250" height="56" rx="18" fill="#0a84ff"/>
+  <text font-size="13.5" fill="#fff"><tspan x="166" y="313">Is my 3pm meeting still on?</tspan><tspan x="166" y="331">Find me the nearest carrier store.</tspan></text>
+  <rect x="20" y="362" width="330" height="60" rx="18" fill="#e5e5ea"/>
+  <text font-size="13.5" fill="#111"><tspan x="36" y="386">Lucy (Alvin Liu's assistant line): Your 3pm</tspan><tspan x="36" y="404">moved to 4pm. Reply STOP to opt out.</tspan></text>
+  <rect x="330" y="440" width="70" height="36" rx="18" fill="#0a84ff"/>
+  <text x="365" y="463" text-anchor="middle" font-size="15" fill="#fff">STOP</text>
+  <rect x="20" y="490" width="330" height="56" rx="18" fill="#e5e5ea"/>
+  <text font-size="13.5" fill="#111"><tspan x="36" y="513">Lucy (Alvin Liu's assistant line): You're opted</tspan><tspan x="36" y="531">out and will receive no more messages.</tspan></text>
+</svg>
